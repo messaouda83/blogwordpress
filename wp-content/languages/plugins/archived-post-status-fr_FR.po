@@ -1,0 +1,46 @@
+# Translation of Plugins - Archived Post Status - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Archived Post Status - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-23 19:20:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Archived Post Status - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "Frankie Jarrett"
+msgstr "Frankie Jarrett"
+
+#: archived-post-status.php:326
+msgid "You can't edit this item because it has been Archived. Please change the post status and try again."
+msgstr "Vous ne pouvez pas modifier cet article car il a été archivé. Veuillez modifier son état et essayez à nouveau"
+
+#: archived-post-status.php:65
+msgid "Archived <span class=\"count\">(%s)</span>"
+msgid_plural "Archived <span class=\"count\">(%s)</span>"
+msgstr[0] "Archivé <span class=\"count\">(%s)</span>"
+msgstr[1] "Archivés <span class=\"count\">(%s)</span>"
+
+#: archived-post-status.php:59 archived-post-status.php:145
+#: archived-post-status.php:196 archived-post-status.php:208
+#: archived-post-status.php:244 archived-post-status.php:360
+msgid "Archived"
+msgstr "Archivé"
+
+#. #-#-#-#-#  tmp-archived-post-status.pot (Archived Post Status 0.3.7) 
+#. #-#-#-#-#
+#. Description of the plugin/theme
+#: archived-post-status.php:47
+msgid "Allows posts and pages to be archived so you can unpublish content without having to trash it."
+msgstr "Permets d’archiver des articles et pages pour ne plus publier leur contenu sans devoir les mettre à la corbeille."
+
+#. #-#-#-#-#  tmp-archived-post-status.pot (Archived Post Status 0.3.7) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: archived-post-status.php:46
+msgid "Archived Post Status"
+msgstr "Archived Post Status"
